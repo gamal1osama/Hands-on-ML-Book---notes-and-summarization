@@ -30,8 +30,7 @@ Each chapter in this repository includes:
 | 🧠 **Obsidian** | For personal note-taking, backlinks, and organizing content |
 | 📘 **Book PDF** | Official textbook ([link](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)) |
 | 🎥 **YouTube Playlist** | [This Playlist](https://youtube.com/playlist?list=PL1YWN9bMt3ODJnCNW1WqJ46tXVMCgdwTI&si=roz30oFIR8PMv92Q) by [Eng. Mahmoud Hegab](https://github.com/HEGAB7) for Arabic explanations |
-| 💻 **Source Code** | Official Notebooks:  
-  - [GitHub Repo](https://github.com/ageron/handson-ml3)  |  [Google Colab](https://colab.research.google.com/github/ageron/handson-ml3/blob/main/) 
+| 💻 **Source Code** | Official Notebooks:  [GitHub Repo](https://github.com/ageron/handson-ml3)  and  [Google Colab](https://colab.research.google.com/github/ageron/handson-ml3/blob/main/)  |
 
 ---
 
