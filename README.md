@@ -53,7 +53,7 @@ Chapter 1 - Hands on.pdf
 ├── ...
 └── Chapter x - Hands on.pdf
 ```
-Each PDF represents a summarized view of the corresponding chapter, including exercises.
+Each PDF represents a summarized view of the corresponding chapter.
 
 ---
 
