@@ -47,7 +47,7 @@ At the end of each chapter:
 ## 📁 Structure
 ```
 📂 Hands-on-ML-Book---notes-and-summarization/
-Chapter 1 - Hands on.pdf
+├── Chapter 1 - Hands on.pdf
 ├── Chapter 2 - Hands on.pdf
 ├── Chapter 3 - Hands on.pdf
 ├── ...
