@@ -34,13 +34,13 @@ Each chapter in this repository includes:
 
 ---
 
-## 🧪 Exercises & Practice
+## Exercises & Practice
 
 At the end of each chapter:
 - You’ll find **hands-on exercises** to reinforce your learning.
 - The **solutions** are available at the end of the corresponding notebook for each chapter (in the official GitHub repo or Colab).
 
-💡 I highly recommend **solving the exercises yourself first** before checking the solutions.
+I highly recommend **solving the exercises yourself first** before checking the solutions.
 
 ---
 
